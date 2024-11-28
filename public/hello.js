@@ -1,1 +1,0 @@
-alert("HELLO FROM PUBLIC DIRECTOR!!!")
